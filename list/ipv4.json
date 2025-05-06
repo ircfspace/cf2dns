@@ -1,13 +1,43 @@
 [
     {
+        "colo": "Default",
+        "ip": "172.64.84.241",
+        "latency": 209,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 750,
+        "time": "2025-05-05 13:43:29"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.64.94.138",
+        "latency": 205,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 725,
+        "time": "2025-05-05 13:43:29"
+    },
+    {
         "colo": "FRA",
-        "ip": "162.159.130.11",
+        "ip": "162.159.128.197",
         "latency": 95,
         "line": "CM",
         "loss": 0,
         "node": "CDCM",
-        "speed": 280,
-        "time": "2025-05-05 13:16:04"
+        "speed": 275,
+        "time": "2025-05-05 13:47:01"
+    },
+    {
+        "colo": "FRA",
+        "ip": "162.159.135.212",
+        "latency": 93,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 275,
+        "time": "2025-05-05 13:46:52"
     },
     {
         "colo": "FRA",
@@ -18,36 +48,6 @@
         "node": "CDCM",
         "speed": 275,
         "time": "2025-05-05 13:36:33"
-    },
-    {
-        "colo": "FRA",
-        "ip": "162.159.152.45",
-        "latency": 95,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 275,
-        "time": "2025-05-05 13:26:12"
-    },
-    {
-        "colo": "NRT",
-        "ip": "162.159.134.13",
-        "latency": 94,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 275,
-        "time": "2025-05-05 13:15:56"
-    },
-    {
-        "colo": "NRT",
-        "ip": "162.159.138.167",
-        "latency": 96,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 260,
-        "time": "2025-05-05 13:26:18"
     },
     {
         "colo": "FRA",
@@ -70,44 +70,34 @@
         "time": "2025-05-05 13:36:04"
     },
     {
-        "colo": "FRA",
-        "ip": "104.20.91.84",
-        "latency": 166,
+        "colo": "LAX",
+        "ip": "104.16.116.40",
+        "latency": 154,
         "line": "CT",
         "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 295,
-        "time": "2025-05-05 13:35:26"
+        "node": "QIXJSCT",
+        "speed": 310,
+        "time": "2025-05-05 13:43:28"
     },
     {
         "colo": "FRA",
-        "ip": "104.23.124.119",
-        "latency": 169,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 295,
-        "time": "2025-05-05 13:35:46"
-    },
-    {
-        "colo": "FRA",
-        "ip": "104.20.59.188",
+        "ip": "104.25.148.37",
         "latency": 160,
         "line": "CT",
         "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2025-05-05 13:35:07"
+        "node": "QIXJSCT",
+        "speed": 280,
+        "time": "2025-05-05 13:43:34"
     },
     {
         "colo": "FRA",
-        "ip": "172.67.223.175",
-        "latency": 131,
-        "line": "CU",
+        "ip": "104.20.234.83",
+        "latency": 154,
+        "line": "CT",
         "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 1540,
-        "time": "2025-05-05 13:29:25"
+        "node": "QIXJSCT",
+        "speed": 265,
+        "time": "2025-05-05 13:43:22"
     },
     {
         "colo": "FRA",
@@ -131,6 +121,16 @@
     },
     {
         "colo": "HKG",
+        "ip": "162.159.137.170",
+        "latency": 46,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 705,
+        "time": "2025-05-05 13:49:27"
+    },
+    {
+        "colo": "HKG",
         "ip": "172.64.82.102",
         "latency": 43,
         "line": "CU",
@@ -141,12 +141,12 @@
     },
     {
         "colo": "HKG",
-        "ip": "162.159.243.103",
-        "latency": 40,
+        "ip": "172.64.87.121",
+        "latency": 39,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 260,
-        "time": "2025-05-05 13:19:29"
+        "speed": 290,
+        "time": "2025-05-05 13:49:29"
     }
 ]
