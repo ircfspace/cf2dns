@@ -1,15 +1,5 @@
 [
     {
-        "colo": "LAX",
-        "ip": "162.159.248.151",
-        "latency": 51,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 270,
-        "time": "2025-09-15 18:55:09"
-    },
-    {
         "colo": "HKG",
         "ip": "198.41.208.133",
         "latency": 52,
@@ -18,6 +8,16 @@
         "node": "CDCM",
         "speed": 270,
         "time": "2025-09-16 04:14:42"
+    },
+    {
+        "colo": "LAX",
+        "ip": "162.159.248.151",
+        "latency": 51,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 270,
+        "time": "2025-09-15 18:55:09"
     },
     {
         "colo": "SJC",
@@ -51,13 +51,23 @@
     },
     {
         "colo": "SJC",
-        "ip": "104.17.168.48",
-        "latency": 127,
+        "ip": "104.18.144.234",
+        "latency": 129,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 340,
-        "time": "2025-09-17 05:55:07"
+        "speed": 335,
+        "time": "2025-09-17 09:55:25"
+    },
+    {
+        "colo": "SJC",
+        "ip": "104.18.182.69",
+        "latency": 130,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 295,
+        "time": "2025-09-17 09:56:01"
     },
     {
         "colo": "SJC",
@@ -71,13 +81,13 @@
     },
     {
         "colo": "SJC",
-        "ip": "104.17.191.136",
-        "latency": 128,
+        "ip": "104.16.111.31",
+        "latency": 130,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 295,
-        "time": "2025-09-17 04:45:07"
+        "speed": 290,
+        "time": "2025-09-17 10:35:07"
     },
     {
         "colo": "LAX",
@@ -90,63 +100,53 @@
         "time": "2025-09-17 06:15:42"
     },
     {
-        "colo": "LAX",
-        "ip": "104.19.124.191",
-        "latency": 128,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 285,
-        "time": "2025-09-17 04:15:24"
-    },
-    {
-        "colo": "NRT",
-        "ip": "172.67.74.105",
-        "latency": 57,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 1675,
-        "time": "2025-09-17 09:32:36"
-    },
-    {
-        "colo": "NRT",
-        "ip": "172.67.107.185",
-        "latency": 55,
+        "colo": "LHR",
+        "ip": "172.67.248.126",
+        "latency": 148,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
         "speed": 1525,
-        "time": "2025-09-17 09:32:36"
+        "time": "2025-09-17 10:32:36"
     },
     {
         "colo": "LHR",
-        "ip": "172.67.248.216",
-        "latency": 145,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 1525,
-        "time": "2025-09-17 09:22:36"
-    },
-    {
-        "colo": "NRT",
-        "ip": "141.101.113.21",
-        "latency": 55,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 1490,
-        "time": "2025-09-17 09:32:36"
-    },
-    {
-        "colo": "LHR",
-        "ip": "172.67.239.50",
+        "ip": "172.67.207.25",
         "latency": 147,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 295,
-        "time": "2025-09-17 09:12:40"
+        "speed": 1525,
+        "time": "2025-09-17 10:32:36"
+    },
+    {
+        "colo": "LHR",
+        "ip": "172.67.176.255",
+        "latency": 145,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 1490,
+        "time": "2025-09-17 10:42:36"
+    },
+    {
+        "colo": "NRT",
+        "ip": "172.67.121.205",
+        "latency": 57,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 325,
+        "time": "2025-09-17 10:32:40"
+    },
+    {
+        "colo": "NRT",
+        "ip": "162.159.250.204",
+        "latency": 55,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 270,
+        "time": "2025-09-17 10:22:40"
     }
 ]
